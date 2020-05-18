@@ -3,7 +3,7 @@
     <title>Rupil</title>
     <link href="https://niefba.github.io/publii-rupil/feed.xml" rel="self" />
     <link href="https://niefba.github.io/publii-rupil" />
-    <updated>2020-05-18T18:15:12+02:00</updated>
+    <updated>2020-05-18T18:32:06+02:00</updated>
     <author>
         <name>Fabien Tillon</name>
     </author>
@@ -43,14 +43,16 @@
         <link href="https://niefba.github.io/publii-rupil/dmng-streamhub.html"/>
         <id>https://niefba.github.io/publii-rupil/dmng-streamhub.html</id>
 
-        <updated>2020-05-18T16:40:16+02:00</updated>
+        <updated>2020-05-18T18:30:41+02:00</updated>
             <summary>
                 <![CDATA[
+                        <img src="https://niefba.github.io/publii-rupil/media/posts/3/F180101D-883F-4909-9B6B-17649F7EA305.JPG" alt="" />
                     Réalisation de l'application web temps réel DMNG StreamHub Le DMNG StreamHub est l'application de réception du système DMNG compatible avec toutes les solutions de transmission de live vidéo de la société AVIWEST : ​​DMNG série PRO, IBIS DMNG et l'App DMNG (http://www.aviwest.com/product/dmng-streamhub/). La réalisation de l'application&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
+                    <img src="https://niefba.github.io/publii-rupil/media/posts/3/F180101D-883F-4909-9B6B-17649F7EA305.JPG" alt="" />
                 <p><strong>Réalisation de l'application web temps réel DMNG StreamHub</strong></p>
 <p>Le DMNG StreamHub est l'application de réception du système DMNG compatible avec toutes les solutions de transmission de live vidéo de la société AVIWEST : ​​DMNG série PRO, IBIS DMNG et l'App DMNG (<a class="external-link" href="http://www.aviwest.com/product/dmng-streamhub" target="_blank" rel="noopener noreferrer">http://www.aviwest.com/product/dmng-streamhub/</a>).</p>
 <p>La réalisation de l'application a nécessité le choix d'une architecture web faisant appel au plus récentes avancées en terme de développements web, avec notamment l'utilisation de la pate-forme Node.js pour répondre aux contraintes de temps réel.</p>
@@ -96,7 +98,7 @@
         <link href="https://niefba.github.io/publii-rupil/applications-web-et-mobilite-numerique.html"/>
         <id>https://niefba.github.io/publii-rupil/applications-web-et-mobilite-numerique.html</id>
 
-        <updated>2020-05-18T16:31:55+02:00</updated>
+        <updated>2020-05-18T18:28:59+02:00</updated>
             <summary>
                 <![CDATA[
                     Développement, conseil et expertise dans le domaine des nouvelles technologies. L'activité de Rupil est centrée autour du développement d'applications informatiques destinées aux professionnels. Ces applications sont soit spécifiques à un client (sites Internet, applications Web, applications mobiles), soit des produits destinés à toucher un plus&hellip;
