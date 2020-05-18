@@ -1,0 +1,70 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Rupil",
+    "description": "",
+    "home_page_url": "https://niefba.github.io/publii-rupil",
+    "feed_url": "https://niefba.github.io/publii-rupil/feed.json",
+    "user_comment": "",
+    "icon": "https://niefba.github.io/publii-rupil/media/website/logo-rupil-transparent.png",
+    "author": {
+        "name": "Fabien Tillon"
+    },
+    "items": [
+        {
+            "id": "https://niefba.github.io/publii-rupil/meetings-and-events-by-club-med.html",
+            "url": "https://niefba.github.io/publii-rupil/meetings-and-events-by-club-med.html",
+            "title": "Meetings &amp; Events by Club Med",
+            "summary": "Le département du Club Méditerranée au service des entreprises pour l'organisation de manifestation séminaire ou incentive fait confiance à Rupil pour la maintenance et le développement d'applications Web \"métier\" Intranet et Extranet. Pour répondre aux besoins des équipes Production et Commerciale dans le suivi de&hellip;",
+            "content_html": "<p>Le département du Club Méditerranée au service des entreprises pour l'organisation de manifestation séminaire ou incentive fait confiance à Rupil pour la maintenance et le développement d'applications Web \"métier\" Intranet et Extranet.</p>\n<blockquote>\n<p class=\"callout\">Pour répondre aux besoins des équipes Production et Commerciale dans le suivi de leurs dossiers en après-vente et fournir à la direction les indicateurs de performance essentiels, Meetings &amp; Events by Club Med utilise des outils de gestion de premier ordre.</p>\n</blockquote>\n<blockquote>\n<p>Pour assurer le développement , la maintenance et les besoins évolutifs  de ces outils utilisés par les équipes Meetings &amp; Events by Club Med à travers le monde, nous faisons confiance à Rupil tant pour le conseil, la flexibilité des solutions développées spécialement pour nous, que  pour sa réactivité et son expertise.</p>\n</blockquote>",
+            "author": {
+                "name": "Fabien Tillon"
+            },
+            "tags": [
+            ],
+            "date_published": "2020-05-18T16:41:12+02:00",
+            "date_modified": "2020-05-18T16:50:52+02:00"
+        },
+        {
+            "id": "https://niefba.github.io/publii-rupil/dmng-streamhub.html",
+            "url": "https://niefba.github.io/publii-rupil/dmng-streamhub.html",
+            "title": "DMNG StreamHub",
+            "summary": "Réalisation de l'application web temps réel DMNG StreamHub Le DMNG StreamHub est l'application de réception du système DMNG compatible avec toutes les solutions de transmission de live vidéo de la société AVIWEST : ​​DMNG série PRO, IBIS DMNG et l'App DMNG (http://www.aviwest.com/product/dmng-streamhub/). La réalisation de l'application&hellip;",
+            "content_html": "<p><strong>Réalisation de l'application web temps réel DMNG StreamHub</strong></p>\n<p>Le DMNG StreamHub est l'application de réception du système DMNG compatible avec toutes les solutions de transmission de live vidéo de la société AVIWEST : ​​DMNG série PRO, IBIS DMNG et l'App DMNG (<a class=\"external-link\" href=\"http://www.aviwest.com/product/dmng-streamhub\" target=\"_blank\" rel=\"noopener noreferrer\">http://www.aviwest.com/product/dmng-streamhub/</a>).</p>\n<p>La réalisation de l'application a nécessité le choix d'une architecture web faisant appel au plus récentes avancées en terme de développements web, avec notamment l'utilisation de la pate-forme Node.js pour répondre aux contraintes de temps réel.</p>\n<h3 id=\"mcetoc_1e8k3kh5r0\">Environnement technique</h3>\n<ul>\n<li>Node.js</li>\n<li>Socket.IO</li>\n<li>Framework applicatif Express</li>\n<li>HTML dynamique et MVC avec Angular.js</li>\n<li>Framework CSS Bootstrap</li>\n</ul>",
+            "author": {
+                "name": "Fabien Tillon"
+            },
+            "tags": [
+            ],
+            "date_published": "2020-05-18T16:40:16+02:00",
+            "date_modified": "2020-05-18T16:40:16+02:00"
+        },
+        {
+            "id": "https://niefba.github.io/publii-rupil/a-propos.html",
+            "url": "https://niefba.github.io/publii-rupil/a-propos.html",
+            "title": "À propos",
+            "summary": "Rupil est une SARL au capital de 7 500 € fondée en octobre 2011Son fondateur et dirigeant, Fabien Tillon, est diplômé de l'Ecole Nationale Supérieure des Mines de Saint-Etienne. La création de Rupil intervient à la suite de 12 années d'expérience au sein de différentes&hellip;",
+            "content_html": "<h4 id=\"mcetoc_1e8k0lfuk0\">Rupil est une SARL au capital de 7 500 € fondée en octobre 2011</h4>\n<p>Son fondateur et dirigeant, <strong>Fabien Tillon</strong>, est diplômé de l'Ecole Nationale Supérieure des Mines de Saint-Etienne.</p>\n<p>La création de <strong>Rupil</strong> intervient à la suite de 12 années d'expérience au sein de différentes sociétés en tant que salarié. Elle concrétise une volonté forte du créateur issu d'un milieu social valorisant les activités indépendantes en tant qu'entrepreneur ou profession libérale.</p>\n<p>L'expérience du dirigeant dans le domaine des nouvelles technologies lui confère une maturité importante d'un point de vu métier. Elle a permis de tisser un réseau professionnel conséquent offrant dores et déjà des opportunités de partenariats et de projets innovants.</p>",
+            "author": {
+                "name": "Fabien Tillon"
+            },
+            "tags": [
+            ],
+            "date_published": "2020-05-18T15:48:17+02:00",
+            "date_modified": "2020-05-18T15:48:17+02:00"
+        },
+        {
+            "id": "https://niefba.github.io/publii-rupil/applications-web-et-mobilite-numerique.html",
+            "url": "https://niefba.github.io/publii-rupil/applications-web-et-mobilite-numerique.html",
+            "title": "Applications Web et mobilité numérique",
+            "summary": "Développement, conseil et expertise dans le domaine des nouvelles technologies. L'activité de Rupil est centrée autour du développement d'applications informatiques destinées aux professionnels. Ces applications sont soit spécifiques à un client (sites Internet, applications Web, applications mobiles), soit des produits destinés à toucher un plus&hellip;",
+            "content_html": "<blockquote>\n<p id=\"mcetoc_1e8jt58780\"><strong>Développement, conseil et expertise dans le domaine des nouvelles technologies.</strong></p>\n</blockquote>\n<h3 id=\"mcetoc_1e8jt5gk51\"><strong>Présentation</strong></h3>\n<img class=\"post__image post__image--right\" src=\"http://www.rupil.fr/applications-web-et-mobilite-numerique\" width=\"266\" height=\"119\">\n<p>L'activité de Rupil est centrée autour du développement d'applications informatiques destinées aux professionnels. Ces applications sont soit spécifiques à un client (sites Internet, applications Web, applications mobiles), soit des produits destinés à toucher un plus large public (applications pour les smartphones ou les tablettes).</p>\n<h3 id=\"mcetoc_1e8jt5gk53\">Quelque soit la cible visée, Rupil apporte un soin particulier à :</h3>\n<ul>\n<li>La qualité des produits: des méthodologies et des outils sont utilisés afin de s'assurer que les produits livrés ne contiennent pas d'erreur et correspondent aux attentes du client.</li>\n<li>La qualité des relations humaines: outil de relation client, utilisation de méthodologie de conduite de projet, prise en compte des usages, aide à la formulation des besoins.</li>\n<li>La veille technologique: assurer à nos clients qu'ils ont un partenaire capable de les accompagner sereinement dans les évolutions technologiques.</li>\n</ul>",
+            "author": {
+                "name": "Fabien Tillon"
+            },
+            "tags": [
+            ],
+            "date_published": "2020-05-18T14:48:23+02:00",
+            "date_modified": "2020-05-18T16:31:55+02:00"
+        }
+    ]
+}

@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>Rupil</title>
+    <link href="https://niefba.github.io/publii-rupil/feed.xml" rel="self" />
+    <link href="https://niefba.github.io/publii-rupil" />
+    <updated>2020-05-18T17:33:32+02:00</updated>
+    <author>
+        <name>Fabien Tillon</name>
+    </author>
+    <id>https://niefba.github.io/publii-rupil</id>
+
+    <entry>
+        <title>Meetings &amp; Events by Club Med</title>
+        <author>
+            <name>Fabien Tillon</name>
+        </author>
+        <link href="https://niefba.github.io/publii-rupil/meetings-and-events-by-club-med.html"/>
+        <id>https://niefba.github.io/publii-rupil/meetings-and-events-by-club-med.html</id>
+
+        <updated>2020-05-18T16:50:52+02:00</updated>
+            <summary>
+                <![CDATA[
+                    Le département du Club Méditerranée au service des entreprises pour l'organisation de manifestation séminaire ou incentive fait confiance à Rupil pour la maintenance et le développement d'applications Web "métier" Intranet et Extranet. Pour répondre aux besoins des équipes Production et Commerciale dans le suivi de&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Le département du Club Méditerranée au service des entreprises pour l'organisation de manifestation séminaire ou incentive fait confiance à Rupil pour la maintenance et le développement d'applications Web "métier" Intranet et Extranet.</p>
+<blockquote>
+<p class="callout">Pour répondre aux besoins des équipes Production et Commerciale dans le suivi de leurs dossiers en après-vente et fournir à la direction les indicateurs de performance essentiels, Meetings &amp; Events by Club Med utilise des outils de gestion de premier ordre.</p>
+</blockquote>
+<blockquote>
+<p>Pour assurer le développement , la maintenance et les besoins évolutifs  de ces outils utilisés par les équipes Meetings &amp; Events by Club Med à travers le monde, nous faisons confiance à Rupil tant pour le conseil, la flexibilité des solutions développées spécialement pour nous, que  pour sa réactivité et son expertise.</p>
+</blockquote>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>DMNG StreamHub</title>
+        <author>
+            <name>Fabien Tillon</name>
+        </author>
+        <link href="https://niefba.github.io/publii-rupil/dmng-streamhub.html"/>
+        <id>https://niefba.github.io/publii-rupil/dmng-streamhub.html</id>
+
+        <updated>2020-05-18T16:40:16+02:00</updated>
+            <summary>
+                <![CDATA[
+                    Réalisation de l'application web temps réel DMNG StreamHub Le DMNG StreamHub est l'application de réception du système DMNG compatible avec toutes les solutions de transmission de live vidéo de la société AVIWEST : ​​DMNG série PRO, IBIS DMNG et l'App DMNG (http://www.aviwest.com/product/dmng-streamhub/). La réalisation de l'application&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p><strong>Réalisation de l'application web temps réel DMNG StreamHub</strong></p>
+<p>Le DMNG StreamHub est l'application de réception du système DMNG compatible avec toutes les solutions de transmission de live vidéo de la société AVIWEST : ​​DMNG série PRO, IBIS DMNG et l'App DMNG (<a class="external-link" href="http://www.aviwest.com/product/dmng-streamhub" target="_blank" rel="noopener noreferrer">http://www.aviwest.com/product/dmng-streamhub/</a>).</p>
+<p>La réalisation de l'application a nécessité le choix d'une architecture web faisant appel au plus récentes avancées en terme de développements web, avec notamment l'utilisation de la pate-forme Node.js pour répondre aux contraintes de temps réel.</p>
+<h3 id="mcetoc_1e8k3kh5r0">Environnement technique</h3>
+<ul>
+<li>Node.js</li>
+<li>Socket.IO</li>
+<li>Framework applicatif Express</li>
+<li>HTML dynamique et MVC avec Angular.js</li>
+<li>Framework CSS Bootstrap</li>
+</ul>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>À propos</title>
+        <author>
+            <name>Fabien Tillon</name>
+        </author>
+        <link href="https://niefba.github.io/publii-rupil/a-propos.html"/>
+        <id>https://niefba.github.io/publii-rupil/a-propos.html</id>
+
+        <updated>2020-05-18T15:48:17+02:00</updated>
+            <summary>
+                <![CDATA[
+                    Rupil est une SARL au capital de 7 500 € fondée en octobre 2011Son fondateur et dirigeant, Fabien Tillon, est diplômé de l'Ecole Nationale Supérieure des Mines de Saint-Etienne. La création de Rupil intervient à la suite de 12 années d'expérience au sein de différentes&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <h4 id="mcetoc_1e8k0lfuk0">Rupil est une SARL au capital de 7 500 € fondée en octobre 2011</h4>
+<p>Son fondateur et dirigeant, <strong>Fabien Tillon</strong>, est diplômé de l'Ecole Nationale Supérieure des Mines de Saint-Etienne.</p>
+<p>La création de <strong>Rupil</strong> intervient à la suite de 12 années d'expérience au sein de différentes sociétés en tant que salarié. Elle concrétise une volonté forte du créateur issu d'un milieu social valorisant les activités indépendantes en tant qu'entrepreneur ou profession libérale.</p>
+<p>L'expérience du dirigeant dans le domaine des nouvelles technologies lui confère une maturité importante d'un point de vu métier. Elle a permis de tisser un réseau professionnel conséquent offrant dores et déjà des opportunités de partenariats et de projets innovants.</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Applications Web et mobilité numérique</title>
+        <author>
+            <name>Fabien Tillon</name>
+        </author>
+        <link href="https://niefba.github.io/publii-rupil/applications-web-et-mobilite-numerique.html"/>
+        <id>https://niefba.github.io/publii-rupil/applications-web-et-mobilite-numerique.html</id>
+
+        <updated>2020-05-18T16:31:55+02:00</updated>
+            <summary>
+                <![CDATA[
+                    Développement, conseil et expertise dans le domaine des nouvelles technologies. L'activité de Rupil est centrée autour du développement d'applications informatiques destinées aux professionnels. Ces applications sont soit spécifiques à un client (sites Internet, applications Web, applications mobiles), soit des produits destinés à toucher un plus&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <blockquote>
+<p id="mcetoc_1e8jt58780"><strong>Développement, conseil et expertise dans le domaine des nouvelles technologies.</strong></p>
+</blockquote>
+<h3 id="mcetoc_1e8jt5gk51"><strong>Présentation</strong></h3>
+<img class="post__image post__image--right" src="http://www.rupil.fr/applications-web-et-mobilite-numerique" width="266" height="119">
+<p>L'activité de Rupil est centrée autour du développement d'applications informatiques destinées aux professionnels. Ces applications sont soit spécifiques à un client (sites Internet, applications Web, applications mobiles), soit des produits destinés à toucher un plus large public (applications pour les smartphones ou les tablettes).</p>
+<h3 id="mcetoc_1e8jt5gk53">Quelque soit la cible visée, Rupil apporte un soin particulier à :</h3>
+<ul>
+<li>La qualité des produits: des méthodologies et des outils sont utilisés afin de s'assurer que les produits livrés ne contiennent pas d'erreur et correspondent aux attentes du client.</li>
+<li>La qualité des relations humaines: outil de relation client, utilisation de méthodologie de conduite de projet, prise en compte des usages, aide à la formulation des besoins.</li>
+<li>La veille technologique: assurer à nos clients qu'ils ont un partenaire capable de les accompagner sereinement dans les évolutions technologiques.</li>
+</ul>
+            ]]>
+        </content>
+    </entry>
+</feed>
