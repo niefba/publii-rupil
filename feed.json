@@ -11,6 +11,18 @@
     },
     "items": [
         {
+            "id": "https://niefba.github.io/publii-rupil/nous-contacter.html",
+            "url": "https://niefba.github.io/publii-rupil/nous-contacter.html",
+            "title": "Nous contacter",
+            "author": {
+                "name": "Fabien Tillon"
+            },
+            "tags": [
+            ],
+            "date_published": "2020-05-19T12:14:02+02:00",
+            "date_modified": "2020-05-19T12:23:33+02:00"
+        },
+        {
             "id": "https://niefba.github.io/publii-rupil/meetings-and-events-by-club-med.html",
             "url": "https://niefba.github.io/publii-rupil/meetings-and-events-by-club-med.html",
             "title": "Meetings &amp; Events by Club Med",
@@ -37,7 +49,7 @@
             "tags": [
             ],
             "date_published": "2020-05-18T16:40:16+02:00",
-            "date_modified": "2020-05-19T10:58:09+02:00"
+            "date_modified": "2020-05-19T11:53:01+02:00"
         },
         {
             "id": "https://niefba.github.io/publii-rupil/a-propos.html",
