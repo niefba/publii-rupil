@@ -44,8 +44,8 @@
             "id": "https://niefba.github.io/publii-rupil/dmng-streamhub.html",
             "url": "https://niefba.github.io/publii-rupil/dmng-streamhub.html",
             "title": "DMNG StreamHub",
-            "summary": "Réalisation de l'application web temps réel DMNG StreamHub Le DMNG StreamHub est l'application de réception du système DMNG compatible avec toutes les solutions de transmission de live vidéo de la société AVIWEST: DMNG série PRO, IBIS DMNG et l'App DMNG (http://www.aviwest.com/product/dmng-streamhub/). La réalisation de l'application a&hellip;",
-            "content_html": "<h4 id=\"mcetoc_1e8p3sbrb0\">Réalisation de l'application web temps réel DMNG StreamHub</h4>\n<br>\n<p><img class=\"post__image post__image--left\" src=\"https://niefba.github.io/publii-rupil/media/posts/3/image_mini.png\" alt=\"\" width=\"200\" height=\"54\">Le DMNG StreamHub est l'application de réception du système DMNG compatible avec toutes les solutions de transmission de live vidéo de la société AVIWEST: DMNG série PRO, IBIS DMNG et l'App DMNG (<a class=\"external-link\" href=\"http://www.aviwest.com/product/dmng-streamhub\" target=\"_blank\" rel=\"noopener noreferrer\">http://www.aviwest.com/product/dmng-streamhub/</a>).</p>\n<p>La réalisation de l'application a nécessité le choix d'une architecture web faisant appel au plus récentes avancées en terme de développements web, avec notamment l'utilisation de la pate-forme Node.js pour répondre aux contraintes de temps réel.</p>\n<h3 id=\"mcetoc_1e8p381tu0\">Environnement technique</h3>\n<ul>\n<li>Node.js</li>\n<li>Socket.IO</li>\n<li>Framework applicatif Express</li>\n<li>HTML dynamique et MVC avec Angular.js</li>\n<li>Framework CSS Bootstrap</li>\n</ul>",
+            "summary": "Réalisation de l'application Web temps réel DMNG StreamHub Le DMNG StreamHub est l'application de réception du système DMNG compatible avec toutes les solutions de transmission de live vidéo de la société AVIWEST: DMNG série PRO, IBIS DMNG et l'App DMNG (http://www.aviwest.com/product/dmng-streamhub/). La réalisation de l'application a&hellip;",
+            "content_html": "<h4 id=\"mcetoc_1e8p3sbrb0\">Réalisation de l'application Web temps réel DMNG StreamHub</h4>\n<br>\n<p><img class=\"post__image post__image--left\" src=\"https://niefba.github.io/publii-rupil/media/posts/3/image_mini.png\" alt=\"\" width=\"200\" height=\"54\">Le DMNG StreamHub est l'application de réception du système DMNG compatible avec toutes les solutions de transmission de live vidéo de la société AVIWEST: DMNG série PRO, IBIS DMNG et l'App DMNG (<a class=\"external-link\" href=\"http://www.aviwest.com/product/dmng-streamhub\" target=\"_blank\" rel=\"noopener noreferrer\">http://www.aviwest.com/product/dmng-streamhub/</a>).</p>\n<p>La réalisation de l'application a nécessité le choix d'une architecture web faisant appel au plus récentes avancées en terme de développements web, avec notamment l'utilisation de la pate-forme Node.js pour répondre aux contraintes de temps réel.</p>\n<h3 id=\"mcetoc_1e8p381tu0\">Environnement technique</h3>\n<ul>\n<li>Node.js</li>\n<li>Socket.IO</li>\n<li>Framework applicatif Express</li>\n<li>HTML dynamique et MVC avec Angular.js</li>\n<li>Framework CSS Bootstrap</li>\n</ul>",
             "image": "https://niefba.github.io/publii-rupil/media/posts/3/F180101D-883F-4909-9B6B-17649F7EA305.JPG",
             "author": {
                 "name": "Fabien Tillon"
@@ -53,7 +53,7 @@
             "tags": [
             ],
             "date_published": "2020-05-20T15:10:04+02:00",
-            "date_modified": "2020-05-20T15:36:03+02:00"
+            "date_modified": "2020-05-20T15:41:38+02:00"
         },
         {
             "id": "https://niefba.github.io/publii-rupil/applications-web-et-mobilite-numerique.html",
